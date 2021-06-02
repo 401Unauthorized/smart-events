@@ -1,0 +1,39 @@
+{
+  "name": "smart-events",
+  "description": "An unofficial SmartThings websocket API library (alpha)",
+  "version": "0.1.0",
+  "keywords": [
+    "SmartThings",
+    "Samsung",
+    "Websockets",
+    "API",
+    "Events",
+    "Smart Home",
+    "Library",
+    "Node"
+  ],
+  "author": "Stephen Mendez <git@stephenmendez.dev> (https://www.stephenmendez.dev)",
+  "bugs": "https://github.com/401unauthorized/smart-events/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/401unauthorized/smart-events.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "ajv": "^8.5.0",
+    "dotenv": "^10.0.0",
+    "socket.io-parser": "^4.0.4",
+    "websocket": "^1.0.34"
+  },
+  "engines": {
+    "node": ">=10.23.0"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://paypal.me/stephenmendez401"
+  }
+}
