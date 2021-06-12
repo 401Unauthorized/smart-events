@@ -1,7 +1,7 @@
 {
   "name": "smart-events",
   "description": "An unofficial SmartThings websocket API library (alpha)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "SmartThings",
     "Samsung",

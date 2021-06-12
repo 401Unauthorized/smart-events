@@ -48,6 +48,6 @@ Please include the following information (when available):
 
 ### Privacy
 
-* The websocket request includes a unique User-Agent header containing the project name, version and URL: `smart-events/0.1.0 (https://github.com/401unauthorized/smart-events)`.
+* The websocket request includes a unique User-Agent header containing the project name, version and URL: `smart-events/0.1.1 (https://github.com/401unauthorized/smart-events)`.
 * All communication happens over the WSS (WebSocket Secure) protocol which uses SSL/TLS encryption.
 * The security of the [websocket library](https://www.npmjs.com/package/websocket) has not been tested/validated.
